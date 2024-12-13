@@ -8,6 +8,10 @@ public class Iphone {
 		iphone.stop();
 		iphone.next();
 		iphone.back();
+		iphone.call();
+		iphone.mail();
+		iphone.photo();
+		iphone.internet();
 
 	}
 }
